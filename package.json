@@ -1,0 +1,25 @@
+{
+  "name": "electron-golden-layout",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/main.js",
+  "scripts": {
+    "build": "tsc",
+    "watch-ts": "tsc -w",
+    "lint": "tslint -c tslint.json -p tsconfig.json",
+    "watch-js": "nodemon --exec electron .",
+    "start": "electron ."
+  },
+  "author": "Ambrus Toth",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jquery": "^3.3.31",
+    "electron": "^7.1.7",
+    "nodemon": "^2.0.2",
+    "tslint": "^5.20.1",
+    "typescript": "^3.7.4"
+  },
+  "dependencies": {
+    "jquery": "latest"
+  }
+}

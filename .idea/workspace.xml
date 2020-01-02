@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bc1a3f82-a3c5-4493-9426-6016500034dd" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VnFaaGj25azn9tTNKFRSLZJVwi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/lib/themes" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\IntelliJ IDEA 2019.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\IdeaProjects\electron-golden-layout\src\lib\themes\" />
+      <recent name="C:\Users\User\IdeaProjects\electron-golden-layout\src\lib" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\IdeaProjects\electron-golden-layout\src" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bc1a3f82-a3c5-4493-9426-6016500034dd" name="Default Changelist" comment="" />
+      <created>1577881016423</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577881016423</updated>
+      <workItem from="1577881055802" duration="22053000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/src/main.js.map" />
+        <option value="$PROJECT_DIR$/src/main.js" />
+        <option value="$PROJECT_DIR$/src/renderer.js" />
+        <option value="$PROJECT_DIR$/src/renderer.js.map" />
+        <option value="$PROJECT_DIR$/src/layout.config.js" />
+        <option value="$PROJECT_DIR$/src/layout.config.js.map" />
+        <option value="$PROJECT_DIR$/src/lib/GoldenLayoutTypes.js" />
+        <option value="$PROJECT_DIR$/src/lib/setupGoldenLayout.js.map" />
+        <option value="$PROJECT_DIR$/src/lib/GoldenLayoutTypes.js.map" />
+        <option value="$PROJECT_DIR$/src/lib/setupGoldenLayout.js" />
+        <option value="$PROJECT_DIR$/src/lib/GoldenLayout.js" />
+        <option value="$PROJECT_DIR$/src/lib/GoldenLayout.js.map" />
+      </list>
+    </option>
+    <option name="additionalRoots">
+      <list>
+        <option value="$PROJECT_DIR$/node_modules" />
+      </list>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1577885272814">
+      <screen x="1366" y="-318" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.-318.1920.1040@1366.-318.1920.1040" timestamp="1577885272814" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1577885272814">
+      <screen x="1366" y="-318" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1366.728/1366.-318.1920.1040@1366.-318.1920.1040" timestamp="1577885272814" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1577885272814">
+      <screen x="1366" y="-318" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1366.728/1366.-318.1920.1040@1366.-318.1920.1040" timestamp="1577885272814" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1577885272814">
+      <screen x="1366" y="-318" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1366.728/1366.-318.1920.1040@1366.-318.1920.1040" timestamp="1577885272814" />
+    <state x="1971" y="-184" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1577893131680">
+      <screen x="1366" y="-318" width="1920" height="1040" />
+    </state>
+    <state x="1971" y="-184" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1366.728/1366.-318.1920.1040@1366.-318.1920.1040" timestamp="1577893131680" />
+    <state x="438" y="279" key="run.anything.popup" timestamp="1577920584970">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="1982" y="81" key="run.anything.popup/0.0.1366.728/1366.-318.1920.1040@1366.-318.1920.1040" timestamp="1577889995601" />
+    <state x="438" y="279" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1577920584970" />
+  </component>
+</project>
