@@ -14,7 +14,7 @@
   "license": "ISC",
   "devDependencies": {
     "@types/jquery": "^3.3.31",
-    "electron": "^7.1.7",
+    "electron": "^15.5.5",
     "nodemon": "^2.0.2",
     "tslint": "^5.20.1",
     "typescript": "^3.7.4"
